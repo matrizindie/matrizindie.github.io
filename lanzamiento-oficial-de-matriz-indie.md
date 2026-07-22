@@ -1,4 +1,4 @@
-Lanzamiento Oficial de Matriz Indie
+Lanzamiento oficial de Matriz Indie
 
 Bienvenidos a Matriz Indie, la Renovación de la Bieja Escuela.
 Somos una mini startupp latinoamericana con un solo propósito, desarrollar juegos y programas para la comunidad internacional.
